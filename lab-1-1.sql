@@ -14,3 +14,4 @@
 -- +------+-----------------------------------+
 
 
+SELECT year, name  FROM teams ORDER by year;
